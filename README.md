@@ -1,6 +1,6 @@
 Please check [Demo Page](https://ai-video-platform-internal.azurewebsites.net/platform) to test this quickly
 
-# AI Video Platform
+# AI Video Platform Demo
 Enhance Your Video Content with Our AI Video Platform
 - **GPT-4o Dialogue Integration:** Incorporate GPT-4o dialogue capabilities into your video inputs for AI-driven interactions.
 - **Advanced Parallelized Processing:** Utilize parallelized processing technology for a more granular understanding of your videos, supporting longer video inputs without performance loss
