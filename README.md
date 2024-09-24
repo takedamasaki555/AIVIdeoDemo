@@ -13,12 +13,16 @@ Enhance Your Video Content with Our AI Video Platform
 - **Video Summarization:** Create concise summaries of your video content, making it easier to digest and share key information
 
 
-## How to use
-- Set up environment variables in .env referring to below
+## 利用方法
+- node.js インストール (v18 以上)
+  ```
+  https://nodejs.org/en/download/prebuilt-installer
+  ```
+- .env に環境変数を実施
     ```
     AZURE_STORAGE_CONNECTION_STRING="xxxx"
     ```
-- Install library
+- ライブラリのインストール
     ```
     npm install
     ```
@@ -26,7 +30,7 @@ Enhance Your Video Content with Our AI Video Platform
   ```
   npm run build
   ```
-- Run server
+- 実行
   ```
   npm run start
   ```
