@@ -1,7 +1,5 @@
 Please check [Demo Page](https://ai-video-platform-internal.azurewebsites.net/platform) to test this quickly
 
-Deck URL: [AI Video Platform Introduction_vIP.pptx](https://microsoftapc-my.sharepoint.com/:p:/g/personal/hkusano_microsoft_com/ER-LJ4b8QI9OgwgDpQKKZPEB6gHWglqiui9PynFuXgFHEg?e=9dfLed)
-
 # AI Video Platform
 Enhance Your Video Content with Our AI Video Platform
 - **GPT-4o Dialogue Integration:** Incorporate GPT-4o dialogue capabilities into your video inputs for AI-driven interactions.
@@ -24,9 +22,13 @@ Enhance Your Video Content with Our AI Video Platform
     ```
     npm install
     ```
+- NPM Build
+  ```
+  npm run build
+  ```
 - Run server
   ```
-  npm run
+  npm run start
   ```
 - Access the site e.g. [http://localhost:3000/platform](http://localhost:3000/platform)
 
